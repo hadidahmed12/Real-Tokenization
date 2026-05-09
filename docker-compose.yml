@@ -1,0 +1,14 @@
+version: '3.9'
+services:
+  server:
+    build: .
+    ports:
+      - "4002:5173"
+    container_name: "RWA_Frontend"
+    restart: "always"
+    networks:
+      - client_default
+
+networks:
+  client_default:
+    external: true

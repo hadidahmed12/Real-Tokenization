@@ -1,0 +1,15 @@
+image: atlassian/default-image:latest
+
+pipelines:
+  branches:
+    develop:
+      - step:
+          name: Deploy to Staging
+          script:
+            - apt-get update && apt-get install -y sshpass
+            - sshpass -p "$OF_Dev_PASS" ssh -o StrictHostKeyChecking=no root@46.101.210.71 '
+                cd /root/deploy/rwa/rwa-frontend;
+                sudo docker compose down;
+                git pull;
+                sudo docker compose up --build -d
+                '

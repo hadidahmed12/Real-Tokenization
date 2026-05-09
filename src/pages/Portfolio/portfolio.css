@@ -1,0 +1,45 @@
+.walltet-sub-card h4 {
+  color: var(--Heading, #1f0303);
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+}
+.walltet-sub-card h5 {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.limituse {
+  text-align: center;
+  font-family: Outfit;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.investment-card-limit {
+  font-family: Outfit;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+
+.qicknsig {
+  display: flex;
+}
+
+.annualInve {
+  display: block;
+}
+
+.annualInvemobile {
+  display: none;
+}

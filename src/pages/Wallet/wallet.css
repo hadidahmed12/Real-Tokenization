@@ -1,0 +1,114 @@
+.wallet-top-card {
+  border-radius: 12px;
+  border: var(--sds-size-stroke-border) solid #ececec;
+  opacity: var(--sds-size-stroke-border);
+  padding: 20px 32px;
+  background: var(--Blocks, #f7f8f8);
+}
+.wallet-top-card h6 {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 155.556% */
+}
+.wallet-top-card h5 {
+  color: var(--Heading, #1f0303);
+  font-family: Outfit;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 36px; /* 150% */
+}
+.wallet-top-card button {
+  color: var(--White, #fff);
+  padding: 6px 34px;
+  border-radius: 12px;
+  border: none;
+  cursor: pointer;
+  width: 133px;
+  opacity: var(--sds-size-stroke-border);
+  background: var(--Primary, #be170f);
+  font-family: "Plus Jakarta Sans";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.table-head-001 {
+  color: var(--Text-Heading, #252c32);
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.table-td {
+  color: var(--Text-Heading, #252c32);
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+.tablebggg {
+  padding: 12px 32px;
+  border-radius: 12px;
+  border: var(--sds-size-stroke-border) solid #ececec;
+  opacity: var(--sds-size-stroke-border);
+  background: var(--Grey-White, #fcfcfc);
+}
+.wallter-sub-heading {
+  color: var(--Heading, #1f0303);
+  font-family: Outfit;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px; /* 155.556% */
+}
+.walltet-sub-card {
+  border-radius: 12px;
+  border: 1px solid #ececec;
+  padding: 20px;
+  opacity: var(--sds-size-stroke-border);
+  background: var(--White, #fff);
+}
+.card-number-wallet {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.walletbtn-0993 {
+  color: var(--White, #fff);
+  border: none;
+  outline: none;
+  padding: 8px 20px;
+  font-family: Outfit;
+  cursor: pointer;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 171.429% */
+  width: 100%;
+  border-radius: 12px !important;
+  opacity: var(--sds-size-stroke-border);
+  background: var(--Primary, #be170f) !important;
+}
+.walletsubheading-09 {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.walletcard-iocn-position {
+  position: absolute;
+  right: 20px;
+  top: 45px;
+}

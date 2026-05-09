@@ -1,0 +1,29 @@
+.timer-table-001 {
+  border-radius: 100px;
+  background: var(--Light-Grey, #151616);
+  padding: 6px 6px;
+}
+.timer-table-001 p {
+  color: var(--Primary, #fff);
+  font-family: Questrial;
+  font-size: 16px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 600;
+}
+.f3eff455445 {
+  gap: 10px;
+}
+.ricecolnmn-table-001 {
+  display: flex;
+  justify-content: center;
+}
+.timer-table-001 span {
+  color: var(--Body, #9c9cab);
+  font-family: Questrial;
+  text-align: center;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 155%; /* 15.5px */
+}

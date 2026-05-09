@@ -1,0 +1,52 @@
+.creat-tokenadmin0 {
+  color: #fff;
+  text-align: center;
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  background: var(--Primary, #be170f);
+}
+.token-cardlidsting {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr 1.5fr 1.5fr 1.5fr 1.5fr 1.5fr;
+  align-items: center;
+  padding: 8px;
+  margin-bottom: 10px;
+  background: var(--Blocks, #f7f8f8);
+  border-radius: 20px;
+}
+.token-headingadmin {
+  color: var(--Heading, #1f0303);
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.token-textadmin {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.maintokensaleadmin {
+  color: var(--Primary, #be170f);
+  font-family: Outfit;
+  font-size: 24px;
+  white-space: nowrap;
+  font-style: normal;
+  font-weight: 600;
+
+  line-height: normal;
+}
+.external-link-icon {
+  cursor: pointer;
+  vertical-align: top;
+}

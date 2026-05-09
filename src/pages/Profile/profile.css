@@ -1,0 +1,256 @@
+.profile-card-0012 {
+  border-radius: 12px;
+  border: var(--sds-size-stroke-border) solid #ececec;
+  background: var(--Blocks, #f7f8f8);
+  padding: 24px;
+}
+
+.profile-card-001234 {
+  border-radius: 12px;
+  border: 1px solid #ececec;
+  padding: 24px;
+}
+
+.profile-card-0012 h4 {
+  color: var(--Heading, #1f0303);
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 150% */
+}
+.profile-card-0012 p {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+.view-privacy {
+  background: #e8f3fc;
+  display: flex;
+  padding: 10px;
+  border: 1px solid #00a3ff;
+}
+
+.fn3rf3r4567890 {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.profile-info-0012 {
+  border-radius: 12px;
+  border: 1px solid #ececec;
+  background: var(--White, #fff);
+  padding: 24px 32px;
+}
+.profile-infoname {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px; /* 171.429% */
+}
+.profile-infoname-001 {
+  color: var(--Heading, #1f0303);
+  font-family: Outfit;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px; /* 171.429% */
+}
+.view-poli {
+  width: max-content;
+  border: 1px solid #ececec;
+}
+.support-btn {
+  color: var(--Body, #514746);
+  font-family: Outfit;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 12px; /* 150% */
+  border-radius: var(--Radius-200, 8px);
+  border: var(--sds-size-stroke-border) solid #ececec;
+  padding: 12px 32px;
+}
+.logoutbtnm {
+  color: var(--White, #fff);
+  border-radius: 6px;
+  background: var(--Primary, #be170f);
+  /* 16px/Semibold */
+  font-family: "Plus Jakarta Sans";
+  font-size: 16px;
+  border: none;
+  padding: 8px 16px;
+  width: 100%;
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 150% */
+}
+.logoutbtnm-001 {
+  width: 100%;
+  color: var(--Primary, #be170f);
+  border-radius: 6px;
+  padding: 8px 16px;
+  /* 16px/Semibold */
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-family: "Plus Jakarta Sans";
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px; /* 150% */
+}
+
+.view-blance {
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.privachead {
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.share-link {
+  font-family: Outfit;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 12.6px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+/* customr select */
+.custom-select-wrapper {
+  position: relative;
+  display: inline-block;
+  width: 135px;
+}
+
+.custom-select-container {
+  position: relative;
+  width: 100%;
+}
+
+.customSelect {
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 100%;
+  border-radius: var(--Radius-200, 8px);
+  border: 1px solid #ececec;
+  background: var(--White, #fff);
+  padding: 8px 10px !important;
+}
+
+.custom-icon {
+  position: absolute;
+  right: 3px;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.label-input {
+  display: block;
+  margin-bottom: 8px;
+}
+.customSelect:focus {
+  border-color: #66afe9;
+  box-shadow: 0 0 5px rgba(102, 175, 233, 0.6);
+  outline: none;
+}
+
+.referral-card {
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  border: 1px solid #ececec;
+  max-width: 500px;
+  width: 100%;
+  text-align: left;
+}
+
+.step-title {
+  font-family: Outfit;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+.text-des {
+  font-family: Outfit;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.12px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.text-bonus {
+  font-family: Outfit;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 15.12px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.referral-box {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 15px;
+  align-items: center;
+}
+
+.rewad-earns {
+  font-family: Outfit;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+}
+
+.profile-card-000323 {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.referral-box input {
+  flex: 1;
+  margin-right: 10px;
+}
+
+.referral-box .btn {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 5px;
+}
