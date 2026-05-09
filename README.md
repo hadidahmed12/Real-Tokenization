@@ -1,8 +1,7 @@
-# React + Vite
+**Real Tokenizations** is a blockchain-powered real estate investment ecosystem designed to make premium property ownership accessible, transparent, and affordable through asset fractionalization. The platform bridges traditional real estate with decentralized finance (DeFi), enabling users to invest in tokenized properties with a low entry barrier starting from just USDT 150.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The system consists of two main environments: an advanced Admin Command Center and an Investor Dashboard. The Admin Portal allows administrators to onboard properties, mint blockchain-based ownership tokens, manage liquidity, and handle compliance through an integrated KYC approval workflow. This ensures secure and regulated operations across the platform.
 
-Currently, two official plugins are available:
+The Investor Dashboard provides a seamless user experience where investors can explore DFSA-regulated real estate opportunities, analyze projected returns using AI-driven investment tools, and manage their digital property portfolio in real time. Investors can monitor rental yields, property appreciation, and token performance directly from the platform.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+By leveraging blockchain technology, smart contracts, and tokenized assets, Real Tokenizations removes many of the traditional barriers associated with real estate investing, such as high capital requirements, limited liquidity, and lack of transparency. The platform creates a modern digital marketplace where real estate investments become more accessible, secure, and efficient for global investors.
